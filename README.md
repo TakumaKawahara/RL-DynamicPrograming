@@ -15,5 +15,9 @@ Algorithm 7: Value Iteration.
 Reinforcement Learning cheatsheet  
 https://github.com/udacity/rl-cheatsheet  
 
+OpenAI Gym: FrozenLake Environment
+![alt text](https://github.com/TakumaKawahara/RL-DynamicPrograming/blob/master/frozen-lake.jpg)
+  
+  
 ![alt text](https://github.com/TakumaKawahara/RL-DynamicPrograming/blob/master/State-Value_Function.png)
 
