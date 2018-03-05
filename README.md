@@ -15,5 +15,5 @@ Algorithm 7: Value Iteration.
 Reinforcement Learning cheatsheet  
 https://github.com/udacity/rl-cheatsheet  
 
-
+![alt text](https://github.com/TakumaKawahara/RL-DynamicPrograming/blob/master/State-Value_Function.png)
 
